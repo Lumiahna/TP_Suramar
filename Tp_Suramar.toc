@@ -1,0 +1,12 @@
+## Interface: 70100
+## Title: TP Suramar
+## Notes: Affiche les TPs de Suramar
+## Author: Lumiahna
+## Version: 1.0.2
+
+Krutilities.lua
+Tp_suramar.lua
+
+localization/lang_default.lua
+localization/lang_frFR.lua
+localization/lang_deDE.lua
