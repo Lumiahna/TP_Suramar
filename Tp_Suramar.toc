@@ -1,9 +1,8 @@
-## Interface: 70100
+## Interface: 70300
 ## Title: TP Suramar
 ## Notes: Affiche les TPs de Suramar
 ## Author: Lumiahna
-## Version: 1.0.2
-
+## Version: 1.5
 Krutilities.lua
 Tp_suramar.lua
 
